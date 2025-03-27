@@ -1,10 +1,11 @@
 <img src ="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif">
 <h1 align="center">Hi 🙋‍♂️, I'm Swayam Goswami</h1>
 <h3 align="center">A First Year Computer Science Engineering student from Delhi, India</h3>
+<img align="right"> <img src = "https//i.redd.it/job09l5af78d1.gif"> </p>          
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thechandlerwhocodes&label=Profile%20views&color=0e75b6&style=flat" alt="thechandlerwhocodes" /> </p>
 
-- 🔭 I’m currently working on **ai powered study planner**                      <img src = "https://i.makeagif.com/media/6-30-2021/0lXf8H.gif">
+- 🔭 I’m currently working on **ai powered study planner**           
 
 - 🌱 I’m currently learning **Machine Learning**
 
