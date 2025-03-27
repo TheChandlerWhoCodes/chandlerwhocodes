@@ -1,4 +1,4 @@
-<img src ="https://i.pinimg.com/originals/18/ab/47/18ab473bfc12c28bda2631d66b101e3b.gif">
+<img src ="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif">
 <h1 align="center">Hi 👋, I'm Swayam Goswami</h1>
 <h3 align="center">A First Year Computer Science Engineering student from Delhi, India</h3>
 
