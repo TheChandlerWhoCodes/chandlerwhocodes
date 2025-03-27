@@ -1,4 +1,4 @@
-<img src ="https://i.pinimg.com/736x/07/6c/a4/076ca4ab40fb5f03c83021bdea86443d.jpg">
+<img src ="https://i.pinimg.com/736x/3b/d6/d8/3bd6d82f82d15ec93063fb4991798726.jpg">
 <h1 align="center">Hi 👋, I'm Swayam Goswami</h1>
 <h3 align="center">A First Year Computer Science Engineering student from Delhi, India</h3>
 
