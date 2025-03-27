@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thechandlerwhocodes&label=Profile%20views&color=0e75b6&style=flat" alt="thechandlerwhocodes" /> </p>
 
-- 🔭 I’m currently working on **ai powered study planner**
+- 🔭 I’m currently working on **ai powered study planner**                      <img src = "https://i.makeagif.com/media/6-30-2021/0lXf8H.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
 
