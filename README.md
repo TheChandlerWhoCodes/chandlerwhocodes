@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/theswayamgoswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/theswayamgoswami/" height="30" width="40" /></a>
 <a href="https://kaggle.com/swayam2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swayam2101" height="30" width="40" /></a>
-<a href="https://discord.gg/so_yum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="so_yum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
