@@ -1,6 +1,6 @@
 <img src ="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif">
 <h1 align="center">Hi 🙋‍♂️, I'm Swayam Goswami</h1>
-<h3 align="center">A First Year Computer Science Engineering student from Delhi, India</h3>
+<h3 align="center">A Second Year Computer Science Engineering student from Delhi, India</h3>
 <img align="right" alt="coding" width=300 boder-radius=10 src="https://media.tenor.com/KiutEPE_O_IAAAAM/gopi-bahu.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thechandlerwhocodes&label=Profile%20views&color=0e75b6&style=flat" alt="thechandlerwhocodes" /> </p>
